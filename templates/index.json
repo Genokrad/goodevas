@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "slideshow-split": {
@@ -20,12 +20,12 @@
             "title": "Climb. Develop. Enjoy!",
             "title_size": 59,
             "subheading": "Unlock your child's potential through playful education.",
-            "link": "shopify:\/\/collections\/all",
+            "link": "shopify://collections/all",
             "link_text": "Show collection",
             "link_2": "",
             "link_text_2": "",
             "text_position": "left",
-            "image": "shopify:\/\/shop_images\/2024-01-03_22.24.31.webp",
+            "image": "shopify://shop_images/2024-01-03_22.24.31.webp",
             "indent_image": false,
             "color_scheme": "2"
           }
@@ -37,12 +37,12 @@
             "title": "UP TO 35%",
             "title_size": 60,
             "subheading": "Until August 31",
-            "link": "shopify:\/\/collections\/autumn-sale",
+            "link": "shopify://collections/summer-sale",
             "link_text": "Collection view",
-            "link_2": "shopify:\/\/collections\/mothers-day",
+            "link_2": "shopify://collections/mothers-day",
             "link_text_2": "",
             "text_position": "left",
-            "image": "shopify:\/\/shop_images\/Summer_Sale_Banner_6b68a46e-a10f-45ea-b42c-149d7800d9ed.jpg",
+            "image": "shopify://shop_images/Summer_Sale_Banner_6b68a46e-a10f-45ea-b42c-149d7800d9ed.jpg",
             "indent_image": false,
             "color_scheme": "3"
           }
@@ -186,7 +186,7 @@
       "type": "apps",
       "blocks": {
         "tolstoy_shoppable_video_ugc_carousel_block_rFXW7i": {
-          "type": "shopify:\/\/apps\/tolstoy-shoppable-video-ugc\/blocks\/carousel-block\/06fa8282-42ff-403e-b67c-1936776aed11",
+          "type": "shopify://apps/tolstoy-shoppable-video-quiz/blocks/carousel-block/06fa8282-42ff-403e-b67c-1936776aed11",
           "settings": {
             "publishId": "yqidzl5po8suz"
           }
@@ -210,12 +210,12 @@
             "title": "Created with love by parents, for parents",
             "title_size": 48,
             "subheading": "Being parents ourselves, first of all we seek to make our children's childhood happy.",
-            "link": "shopify:\/\/pages\/about-us",
+            "link": "shopify://pages/about-us",
             "link_text": "About Us",
             "link_2": "",
             "link_text_2": "",
             "text_position": "left",
-            "image": "shopify:\/\/shop_images\/goodevas_company_group_photo.jpg",
+            "image": "shopify://shop_images/goodevas_company_group_photo.jpg",
             "indent_image": false,
             "color_scheme": "1"
           }
@@ -239,42 +239,42 @@
         "template--16203815878813__f1fc9b2f-158a-40fb-b3f4-5b55d03f5619-logo_image-1": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/daily-mom.png",
+            "image": "shopify://shop_images/daily-mom.png",
             "link": ""
           }
         },
         "template--16203815878813__f1fc9b2f-158a-40fb-b3f4-5b55d03f5619-logo_image-2": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/The-new-york-times.png",
-            "link": "https:\/\/www.nytimes.com\/wirecutter\/gifts\/best-gifts-toys-for-1-year-olds\/"
+            "image": "shopify://shop_images/The-new-york-times.png",
+            "link": "https://www.nytimes.com/wirecutter/gifts/best-gifts-toys-for-1-year-olds/"
           }
         },
         "template--16203815878813__f1fc9b2f-158a-40fb-b3f4-5b55d03f5619-logo_image-5": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Motherly.png",
+            "image": "shopify://shop_images/Motherly.png",
             "link": ""
           }
         },
         "template--16203815878813__f1fc9b2f-158a-40fb-b3f4-5b55d03f5619-logo_image-6": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/evening-srandard.png",
-            "link": "https:\/\/www.standard.co.uk\/shopping\/esbest\/kids\/toys-games\/best-toddler-learning-towers-b1059342.html"
+            "image": "shopify://shop_images/evening-srandard.png",
+            "link": "https://www.standard.co.uk/shopping/esbest/kids/toys-games/best-toddler-learning-towers-b1059342.html"
           }
         },
         "template--16203815878813__f1fc9b2f-158a-40fb-b3f4-5b55d03f5619-logo_image-3": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/momtastic.png",
+            "image": "shopify://shop_images/momtastic.png",
             "link": ""
           }
         },
         "template--16203815878813__f1fc9b2f-158a-40fb-b3f4-5b55d03f5619-logo_image-4": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/celebrating-with-kids.png",
+            "image": "shopify://shop_images/celebrating-with-kids.png",
             "link": ""
           }
         }
